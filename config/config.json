@@ -1,0 +1,58 @@
+{
+  "site": {
+    "title": "Niedrotech Light Nextjs",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.svg",
+    "logo_width": "240",
+    "logo_height": "34",
+    "logo_text": "Niedrotech"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "footer_content": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "copyright": "Designed & Developed By [Themefisher](https:www.themefisher.com)"
+  },
+
+  "contact_info": {
+    "phone": "+887887998",
+    "email": "info@niedrotech.com",
+    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Talk to Us",
+    "link": "/contact"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Niedrotech-light Nextjs Blog Template"
+  },
+
+  "call_to_action": {
+    "enable": true,
+    "title": "Niedrotech Your Trusted Partner",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.",
+    "button": {
+      "label": "Get a Quotation",
+      "link": "/contact"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}
